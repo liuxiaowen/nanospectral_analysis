@@ -1,6 +1,6 @@
 # Code
 
-Python code for nanospectral data analysis
+Python code for nanospectral data analysis.
 
 # Data
 
